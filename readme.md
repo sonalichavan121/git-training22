@@ -5,3 +5,4 @@ echo "welcome to git"
 echo "git basics"
 echo "git advance"
 echo "git projects"
+echo "git mini projecs
