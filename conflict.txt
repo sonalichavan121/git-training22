@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Welcome to AWS  training
+=======
+Welcome to devops training
+>>>>>>> developer-b
 Git is a version control system
 we are learning git
