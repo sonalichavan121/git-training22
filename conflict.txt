@@ -1,3 +1,3 @@
-Welcome to git training
+Welcome to AWS  training
 Git is a version control system
 we are learning git
